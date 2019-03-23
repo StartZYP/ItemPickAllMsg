@@ -1,0 +1,5 @@
+name: ItemPickAllMsg
+main: com.qq44920040.Minecraft.ItemPickAllMsg
+version: 1.0
+commands:
+  IPAM:

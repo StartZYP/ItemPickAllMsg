@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="ItemPickAllMsg:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ItemPickAllMsg_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ItemPickAllMsg.jar">
+        <element id="module-output" name="ItemPickAllMsg" />
+      </element>
+    </root>
+  </artifact>
+</component>
